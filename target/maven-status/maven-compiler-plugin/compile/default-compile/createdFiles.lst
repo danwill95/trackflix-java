@@ -1,7 +1,0 @@
-com\trackflix\model\Movie.class
-com\trackflix\repository\MovieRepository.class
-com\trackflix\TrackflixApplication.class
-com\trackflix\service\MovieService.class
-com\trackflix\repository\MovieRepository$1.class
-com\trackflix\controller\MovieController.class
-com\trackflix\dto\MovieDTO.class
