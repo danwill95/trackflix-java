@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "status": "Assistido",
+    "rating": 5,
+    "notes": "Mind-blowing movie!",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "status": "Assistido",
+    "rating": 5,
+    "notes": "Best Batman movie ever!",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "status": "Pendente",
+    "rating": 0,
+    "notes": "Heard it's amazing",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  }
+]
