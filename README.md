@@ -41,5 +41,5 @@ Trackflix é um sistema web completo para gerenciar sua biblioteca pessoal de fi
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/SEU_USUARIO/trackflix-java.git
+   git clone https://github.com/danwill95/trackflix-java.git
    cd trackflix-java
